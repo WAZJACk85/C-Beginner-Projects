@@ -3,12 +3,12 @@ Basic C++ Programs - Introduction basic task programs, plus some intermediate C+
 
 ## INDEX LIST OF BASIC C++ PROGRAMS AND SHORT DESCRIPTION
 
-PROJECTS 1.   [## Simple Beginner Programs]
+PROJECTS 1.   [#Simple Beginner Programs]
 
 * Hello world message and pause program in C++
 
 
-PROJECTS 2.   Deck of Cards Assignment
+PROJECTS 2.   [#Deck of Cards Assignment]
 
 Description:  
 * A C++ program inputted via cmd console, which gives the user prompts to input card numbers and letters defining
