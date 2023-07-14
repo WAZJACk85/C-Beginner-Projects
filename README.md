@@ -5,7 +5,7 @@ Basic C++ Programs - Introduction basic task programs, plus some intermediate C+
 
 PROJECTS 1.   Simple Beginner Programs
 
-* Hellow world message and pause program in C++
+* Hello world message and pause program in C++
 
 
 PROJECTS 2.   Deck of Cards Assignment
